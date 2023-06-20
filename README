@@ -12,3 +12,6 @@ npm start
 cd backend
 npm install
 node index.js
+
+###############################################################
+OPEN URL :: http://localhost:3000/
